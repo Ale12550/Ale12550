@@ -1,4 +1,4 @@
-<body style='background-image:red'>
+<body style='background-color:red'>
 - 👋 Hi, I’m Alessio Valsania and I'm from Italy
 - 👀 I’m interested study Mathematics and everything related to logic 
 - 🌱 I’m currently learning Computer science and studing from Big Luca CEO of the <a href="https://biglucainternational.com">Big Luca International Consulting </a>
