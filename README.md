@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <p style="color:red;">Alessio Valsania</p> and I'm from Italy
+- 👋 Hi, I’m <p style="color:red">Alessio Valsania</p> and I'm from Italy
 - 👀 I’m interested study Mathematics and everything related to logic 
 - 🌱 I’m currently learning Computer science and studing from Big Luca CEO of the <a href="https://biglucainternational.com">Big Luca International Consulting </a>
 - 💞️ I’m looking to collaborate on professionals for learn from them
