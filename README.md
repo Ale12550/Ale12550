@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ale12550 
 - 👀 I’m interested study Mathematics and everything related to logic 
-- 🌱 I’m currently learning Computer science
+- 🌱 I’m currently learning Computer science and studing from Big Luca (https://biglucainternational.com)
 - 💞️ I’m looking to collaborate on professionals for learn from them
 - 📫 How to reach me? you can use my email alessiovalsania@gmail.com
 
